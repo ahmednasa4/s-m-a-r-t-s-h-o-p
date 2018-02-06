@@ -1,6 +1,6 @@
 {
   "name": "smartshop1",
-  "app_id": "",
+  "app_id": "d33edbf6",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
